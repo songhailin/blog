@@ -14,4 +14,4 @@ My Blog
 ### PPT
 
 1. [响应式布局](https://slides.com/hailinsong/137632)
-2. [配色方案](http://slides.com/hailinsong/deck)
+2. [色彩搭配](http://slides.com/hailinsong/deck)
